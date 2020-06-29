@@ -1,0 +1,2 @@
+# MyPollsApp
+Django Beginner tutorial
